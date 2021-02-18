@@ -1,0 +1,28 @@
+.btn{
+    background: blue;
+    margin-left: 5px; 
+    color: white;
+    padding: 5px ;
+}
+
+.divMain{
+    display: flex;
+    flex-direction: row;
+}
+
+.divBoard{ 
+    display: flex;
+    margin-top: 10px;
+}
+
+.divHistory{
+    margin-left: 15px;
+}
+
+.divHistory li{
+    background: rgb(247, 247, 112);
+    padding: 5px;
+    border: 2px solid rgb(240, 240, 16);
+    list-style-type: none;
+    margin: 5px 0;
+}
